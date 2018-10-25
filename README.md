@@ -10,7 +10,7 @@ Tic Tac Toe game built in Javascript
 **Tech used:** HTML5, CSS3, JavaScript.
 
 ## Lessons Learned:
-Learned how to use 2d arrays to better loop through the winning conditionals
+Learned how to use 2d arrays to better check when there was a winning combination on the game board.
 
 ## Examples:
 
